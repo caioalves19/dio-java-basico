@@ -1,3 +1,5 @@
 .vscode/settings.json
 tipos-variaveis/.vscode/settings.json
 tipos-variaveis/bin/
+*/bin
+*/.vscode/settings.json
